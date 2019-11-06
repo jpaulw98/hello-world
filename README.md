@@ -1,2 +1,4 @@
 # hello-world
-A repository for ideas, resources or miscellaneous work
+Hello Humanoids,
+
+This is a project from planet newbie, written by a newbieoid.
